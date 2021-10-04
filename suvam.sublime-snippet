@@ -1,0 +1,56 @@
+<snippet>
+	<content><![CDATA[
+#include<bits/stdc++.h>
+using namespace std;
+ 
+#define ff              first
+#define ss              second
+#define ll             long long
+#define pb              push_back
+#define mp              make_pair
+#define pii             pair<int,int>
+#define vi              vector<int>
+#define mii             map<int,int>
+#define pqb             priority_queue<int>
+#define pqs             priority_queue<int,vi,greater<int> >
+#define mod             1000000007
+#define inf             1e18
+#define ps(x,y)         fixed<<setprecision(y)<<x
+#define w(x)            int x; cin>>x; while(x--)
+#ifndef ONLINE_JUDGE
+#define debug(x)        cerr<<#x<<" "<<x<<endl;
+#else
+#define debug(x)
+#endif
+void fast()
+{
+    ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+}
+/*-------------------------------------Suvam sahani----------------------------------*/
+ 
+
+ 
+void solve(){
+   
+}
+ 
+int main()
+{
+    
+    #ifndef ONLINE_JUDGE
+        freopen("Error.txt","w",stderr);
+    #endif
+    
+    fast();
+
+    solve();
+
+    
+    return 0;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>suvam</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>
